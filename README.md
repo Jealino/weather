@@ -1,2 +1,3 @@
-# weather
-weather app creation
+<!Doctype html>
+<html>
+</html>
